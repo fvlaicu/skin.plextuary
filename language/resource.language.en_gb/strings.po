@@ -1004,3 +1004,11 @@ msgstr ""
 msgctxt "#31615"
 msgid "Subtitle language"
 msgstr ""
+
+msgctxt "#32100"
+msgid "Show backdrop on pause"
+msgstr ""
+
+msgctxt "#32101"
+msgid "Show Restart Kodi option in exit menu"
+msgstr ""
