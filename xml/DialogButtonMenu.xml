@@ -64,6 +64,7 @@
 					<item>
 						<label>Restart Kodi</label>
 						<onclick>RestartApp()</onclick>
+						<visible>Skin.HasSetting(showkodirestart)</visible>
 					</item>
 					<item>
 						<label>$LOCALIZE[20126] $INFO[system.profilename]</label>
