@@ -877,3 +877,11 @@ msgstr "HD hang típus"
 msgctxt "#31641"
 msgid "Passthrough"
 msgstr "Hangtovábbítás"
+
+msgctxt "#31900"
+msgid "Show backdrop on pause"
+msgstr "Háttér mutatás szünetnél"
+
+msgctxt "#31901"
+msgid "Show Restart Kodi option in exit menu"
+msgstr "Újraindítást mutat a kilépés mnenüben"
